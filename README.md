@@ -1,4 +1,4 @@
-# dual-boot (If you encounter booting to Ubuntu)
+# dual-boot (If you encounter issue booting to Ubuntu)
 
 **After Ubuntu installed on partition Disk**
 
