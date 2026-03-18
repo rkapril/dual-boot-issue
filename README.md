@@ -8,6 +8,7 @@ cmd run as adminstrator
 ```
 bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
 ```
+Restart your machine
 
 grub>
 ```
