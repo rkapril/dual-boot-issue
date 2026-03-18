@@ -1,7 +1,8 @@
-# dual-boot
+# dual-boot (If you encounter booting to Ubuntu)
 
 **After Ubuntu installed on partition Disk**
 
+**Windows**
 cmd run as adminstrator
 ```
 bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
